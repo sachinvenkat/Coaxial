@@ -3,6 +3,6 @@ The key prime aspect of this repositry is to create a stack for Coaxial cable us
 
 The main goals are to:
 
-Learn TCP/IP
-Learn network programming
-Learn Socket API
+ *Learn TCP/IP
+ *Learn network programming
+ *Learn Socket API
